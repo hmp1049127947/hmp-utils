@@ -1,0 +1,31 @@
+[**hmp-utils**](../README.md) • **Docs**
+
+***
+
+# 函数: isDefined()
+
+### 不为 undefined
+
+> **isDefined**\<`T`\>(`val`?): `val is T`
+
+## 类型参数
+
+| 类型参数 | Value |
+| :------ | :------ |
+| `T` | `unknown` |
+
+## 参数
+
+| 参数名 | 类型 | 描述 |
+| :------ | :------ | :------ |
+| `val`? | `T` | 要判断的数据 |
+
+## 返回值类型
+
+`val is T`
+
+boolean
+
+## 查看源码
+
+modules/is/index.ts:34
