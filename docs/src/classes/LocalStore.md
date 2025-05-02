@@ -42,7 +42,7 @@ storeInstant.clear();
 
 #### 查看源码
 
-modules/localStore/index.ts:22
+[modules/localStore/index.ts:22](https://github.com/hmp1049127947/hmp-utils/blob/4a6ef6c09762a1cd3b8d7a3366d8664e5e49db4c/src/modules/localStore/index.ts#L22)
 
 ## Properties
 
@@ -52,7 +52,7 @@ modules/localStore/index.ts:22
 
 #### 查看源码
 
-modules/localStore/index.ts:21
+[modules/localStore/index.ts:21](https://github.com/hmp1049127947/hmp-utils/blob/4a6ef6c09762a1cd3b8d7a3366d8664e5e49db4c/src/modules/localStore/index.ts#L21)
 
 ## Methods
 
@@ -66,7 +66,7 @@ modules/localStore/index.ts:21
 
 #### 查看源码
 
-modules/localStore/index.ts:69
+[modules/localStore/index.ts:69](https://github.com/hmp1049127947/hmp-utils/blob/4a6ef6c09762a1cd3b8d7a3366d8664e5e49db4c/src/modules/localStore/index.ts#L69)
 
 ***
 
@@ -93,7 +93,7 @@ modules/localStore/index.ts:69
 
 #### 查看源码
 
-modules/localStore/index.ts:30
+[modules/localStore/index.ts:30](https://github.com/hmp1049127947/hmp-utils/blob/4a6ef6c09762a1cd3b8d7a3366d8664e5e49db4c/src/modules/localStore/index.ts#L30)
 
 ***
 
@@ -113,7 +113,7 @@ modules/localStore/index.ts:30
 
 #### 查看源码
 
-modules/localStore/index.ts:26
+[modules/localStore/index.ts:26](https://github.com/hmp1049127947/hmp-utils/blob/4a6ef6c09762a1cd3b8d7a3366d8664e5e49db4c/src/modules/localStore/index.ts#L26)
 
 ***
 
@@ -133,7 +133,7 @@ modules/localStore/index.ts:26
 
 #### 查看源码
 
-modules/localStore/index.ts:64
+[modules/localStore/index.ts:64](https://github.com/hmp1049127947/hmp-utils/blob/4a6ef6c09762a1cd3b8d7a3366d8664e5e49db4c/src/modules/localStore/index.ts#L64)
 
 ***
 
@@ -157,4 +157,4 @@ modules/localStore/index.ts:64
 
 #### 查看源码
 
-modules/localStore/index.ts:51
+[modules/localStore/index.ts:51](https://github.com/hmp1049127947/hmp-utils/blob/4a6ef6c09762a1cd3b8d7a3366d8664e5e49db4c/src/modules/localStore/index.ts#L51)

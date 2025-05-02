@@ -17,7 +17,7 @@
   * @example
   * ```ts
   *  main.ts
-  *  import { directive } from 'plsteins-utils'
+  *  import { directive } from 'hmp-utils'
   *  app.use(directive)
   * ```
   * ```vue

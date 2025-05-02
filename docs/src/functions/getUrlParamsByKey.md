@@ -22,4 +22,4 @@
 
 ## 查看源码
 
-modules/url/index.ts:70
+[modules/url/index.ts:70](https://github.com/hmp1049127947/hmp-utils/blob/4a6ef6c09762a1cd3b8d7a3366d8664e5e49db4c/src/modules/url/index.ts#L70)

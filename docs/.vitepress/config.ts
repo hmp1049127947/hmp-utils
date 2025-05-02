@@ -14,7 +14,7 @@ export default defineConfig({
       label: '简体中文',
       lang: 'zh',
       dir: '/',
-      title: 'MyUtils',
+      title: 'hmpUtils',
       description: '一个开箱即用的 Javascript 工具库'
     }
   },
@@ -27,7 +27,7 @@ export default defineConfig({
     },
     footer: {
       message: 'Released under the MIT License.',
-      copyright: 'Copyright © 2023-present hacxy'
+      copyright: 'Copyright © 2025'
     },
     nav: [
       {
@@ -38,7 +38,7 @@ export default defineConfig({
     socialLinks: [
       {
         icon: 'github',
-        link: 'https://github.com/hacxy/library-complete-template'
+        link: 'https://github.com/hmp1049127947/hmp-utils'
       }
     ],
     search: {

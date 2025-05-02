@@ -38,7 +38,7 @@ console.log(aesCrypto.decrypt(encrypted)); // 哈哈哈哈
 
 #### 查看源码
 
-modules/crypto/index.ts:35
+[modules/crypto/index.ts:35](https://github.com/hmp1049127947/hmp-utils/blob/4a6ef6c09762a1cd3b8d7a3366d8664e5e49db4c/src/modules/crypto/index.ts#L35)
 
 ## Properties
 
@@ -48,7 +48,7 @@ modules/crypto/index.ts:35
 
 #### 查看源码
 
-modules/crypto/index.ts:33
+[modules/crypto/index.ts:33](https://github.com/hmp1049127947/hmp-utils/blob/4a6ef6c09762a1cd3b8d7a3366d8664e5e49db4c/src/modules/crypto/index.ts#L33)
 
 ***
 
@@ -58,7 +58,7 @@ modules/crypto/index.ts:33
 
 #### 查看源码
 
-modules/crypto/index.ts:32
+[modules/crypto/index.ts:32](https://github.com/hmp1049127947/hmp-utils/blob/4a6ef6c09762a1cd3b8d7a3366d8664e5e49db4c/src/modules/crypto/index.ts#L32)
 
 ## Accessors
 
@@ -78,7 +78,7 @@ modules/crypto/index.ts:32
 
 #### 查看源码
 
-modules/crypto/index.ts:48
+[modules/crypto/index.ts:48](https://github.com/hmp1049127947/hmp-utils/blob/4a6ef6c09762a1cd3b8d7a3366d8664e5e49db4c/src/modules/crypto/index.ts#L48)
 
 ## Methods
 
@@ -98,7 +98,7 @@ modules/crypto/index.ts:48
 
 #### 查看源码
 
-modules/crypto/index.ts:66
+[modules/crypto/index.ts:66](https://github.com/hmp1049127947/hmp-utils/blob/4a6ef6c09762a1cd3b8d7a3366d8664e5e49db4c/src/modules/crypto/index.ts#L66)
 
 ***
 
@@ -118,4 +118,4 @@ modules/crypto/index.ts:66
 
 #### 查看源码
 
-modules/crypto/index.ts:56
+[modules/crypto/index.ts:56](https://github.com/hmp1049127947/hmp-utils/blob/4a6ef6c09762a1cd3b8d7a3366d8664e5e49db4c/src/modules/crypto/index.ts#L56)

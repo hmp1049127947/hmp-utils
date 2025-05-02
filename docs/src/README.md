@@ -6,7 +6,7 @@
 
 This is a JavaScript library project development template with complete infrastructure and developed using TypeScript to help you quickly build a JavaScript utility library that automatically generates documentation.
 
-English | [简体中文](https://github.com/hacxy/library-complete-template/blob/main/README_zh.md)
+English | [简体中文](https://github.com/hmp1049127947/hmp-utils/blob/main/README_zh.md)
 
 ## Features
 

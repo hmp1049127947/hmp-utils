@@ -32,4 +32,4 @@ const users await parallel(3,[1,2,3,4,5,6,7,8,9],async (userId)=>{
 
 ## 查看源码
 
-modules/async/index.ts:60
+[modules/async/index.ts:60](https://github.com/hmp1049127947/hmp-utils/blob/4a6ef6c09762a1cd3b8d7a3366d8664e5e49db4c/src/modules/async/index.ts#L60)

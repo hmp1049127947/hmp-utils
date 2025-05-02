@@ -22,7 +22,7 @@
 
 ```ts
  main.ts
- import { directive } from 'plsteins-utils'
+ import { directive } from 'hmp-utils'
  app.use(directive)
 ```
 ```vue
@@ -33,4 +33,4 @@
 
 ## 查看源码
 
-modules/directive/drag.ts:145
+[modules/directive/drag.ts:145](https://github.com/hmp1049127947/hmp-utils/blob/4a6ef6c09762a1cd3b8d7a3366d8664e5e49db4c/src/modules/directive/drag.ts#L145)
