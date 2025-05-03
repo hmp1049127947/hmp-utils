@@ -6,6 +6,18 @@
 
 > `const` **directive**: `object`
 
+## 方法名称
+
+自定义指令插件
+
+## 示例
+
+```ts
+ main.ts
+ import { directive } from 'hmp-utils'
+ app.use(directive)
+```
+
 ## Type declaration
 
 | Member | 类型 |
@@ -14,4 +26,4 @@
 
 ## 查看源码
 
-[modules/directive/index.ts:5](https://github.com/hmp1049127947/hmp-utils/blob/4a6ef6c09762a1cd3b8d7a3366d8664e5e49db4c/src/modules/directive/index.ts#L5)
+[modules/directive/index.ts:16](https://github.com/hmp1049127947/hmp-utils/blob/dee7627dd7f5e043cd0494e8f8fdc05ccdb65423/src/modules/directive/index.ts#L16)

@@ -30,7 +30,7 @@ console.log(aesCrypto.decrypt(encrypted)); // 哈哈哈哈
 
 | 参数名 | 类型 |
 | :------ | :------ |
-| `opt` | [`EncryptionParams`](../interfaces/EncryptionParams.md) |
+| `opt` | `EncryptionParams` |
 
 #### 返回值类型
 
@@ -38,7 +38,7 @@ console.log(aesCrypto.decrypt(encrypted)); // 哈哈哈哈
 
 #### 查看源码
 
-[modules/crypto/index.ts:35](https://github.com/hmp1049127947/hmp-utils/blob/4a6ef6c09762a1cd3b8d7a3366d8664e5e49db4c/src/modules/crypto/index.ts#L35)
+[modules/crypto/index.ts:35](https://github.com/hmp1049127947/hmp-utils/blob/dee7627dd7f5e043cd0494e8f8fdc05ccdb65423/src/modules/crypto/index.ts#L35)
 
 ## Properties
 
@@ -48,7 +48,7 @@ console.log(aesCrypto.decrypt(encrypted)); // 哈哈哈哈
 
 #### 查看源码
 
-[modules/crypto/index.ts:33](https://github.com/hmp1049127947/hmp-utils/blob/4a6ef6c09762a1cd3b8d7a3366d8664e5e49db4c/src/modules/crypto/index.ts#L33)
+[modules/crypto/index.ts:33](https://github.com/hmp1049127947/hmp-utils/blob/dee7627dd7f5e043cd0494e8f8fdc05ccdb65423/src/modules/crypto/index.ts#L33)
 
 ***
 
@@ -58,7 +58,7 @@ console.log(aesCrypto.decrypt(encrypted)); // 哈哈哈哈
 
 #### 查看源码
 
-[modules/crypto/index.ts:32](https://github.com/hmp1049127947/hmp-utils/blob/4a6ef6c09762a1cd3b8d7a3366d8664e5e49db4c/src/modules/crypto/index.ts#L32)
+[modules/crypto/index.ts:32](https://github.com/hmp1049127947/hmp-utils/blob/dee7627dd7f5e043cd0494e8f8fdc05ccdb65423/src/modules/crypto/index.ts#L32)
 
 ## Accessors
 
@@ -78,7 +78,7 @@ console.log(aesCrypto.decrypt(encrypted)); // 哈哈哈哈
 
 #### 查看源码
 
-[modules/crypto/index.ts:48](https://github.com/hmp1049127947/hmp-utils/blob/4a6ef6c09762a1cd3b8d7a3366d8664e5e49db4c/src/modules/crypto/index.ts#L48)
+[modules/crypto/index.ts:48](https://github.com/hmp1049127947/hmp-utils/blob/dee7627dd7f5e043cd0494e8f8fdc05ccdb65423/src/modules/crypto/index.ts#L48)
 
 ## Methods
 
@@ -98,7 +98,7 @@ console.log(aesCrypto.decrypt(encrypted)); // 哈哈哈哈
 
 #### 查看源码
 
-[modules/crypto/index.ts:66](https://github.com/hmp1049127947/hmp-utils/blob/4a6ef6c09762a1cd3b8d7a3366d8664e5e49db4c/src/modules/crypto/index.ts#L66)
+[modules/crypto/index.ts:66](https://github.com/hmp1049127947/hmp-utils/blob/dee7627dd7f5e043cd0494e8f8fdc05ccdb65423/src/modules/crypto/index.ts#L66)
 
 ***
 
@@ -118,4 +118,4 @@ console.log(aesCrypto.decrypt(encrypted)); // 哈哈哈哈
 
 #### 查看源码
 
-[modules/crypto/index.ts:56](https://github.com/hmp1049127947/hmp-utils/blob/4a6ef6c09762a1cd3b8d7a3366d8664e5e49db4c/src/modules/crypto/index.ts#L56)
+[modules/crypto/index.ts:56](https://github.com/hmp1049127947/hmp-utils/blob/dee7627dd7f5e043cd0494e8f8fdc05ccdb65423/src/modules/crypto/index.ts#L56)

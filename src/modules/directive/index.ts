@@ -1,6 +1,7 @@
 import type { App } from 'vue'
 import { dragDirective } from './drag'
 import { lazyDirective } from './lazy'
+import { clickOutsideDirective } from './clickOutside'
 
 /**
  * @name 自定义指令插件
@@ -16,10 +17,12 @@ export const directive = {
   install(app: App) {
     dragDirective(app)
     lazyDirective(app)
+    clickOutsideDirective(app)
   },
 }
 
 export {
   dragDirective,
   lazyDirective,
+  clickOutsideDirective
 }

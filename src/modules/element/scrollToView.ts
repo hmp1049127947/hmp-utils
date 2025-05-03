@@ -198,8 +198,8 @@ interface ISettings {
  *  scrollToView(document.querySelector('#target'), {
  *    time:1000,
  *     align: {
- *         top:  0 : 0.5, // 视图比例 0 to 1, 默认 0.5 (center)
- *         topOffset:  80 : 0 // 视图偏移 pixels to offset top alignment
+ *         top:  0 , // 视图比例 0 to 1, 默认 0.5 (center)
+ *         topOffset:  80 // 视图偏移 pixels to offset top alignment
  *     }
  *  })
  * ```

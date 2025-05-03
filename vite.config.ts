@@ -1,6 +1,8 @@
 import path from 'node:path';
 import { defineConfig } from 'vite';
 import dts from 'vite-plugin-dts';
+import vue from '@vitejs/plugin-vue'
+
 
 export default defineConfig({
   build: {
@@ -17,5 +19,5 @@ export default defineConfig({
       '@': path.resolve(__dirname, './src')
     }
   },
-  plugins: [dts()]
+  plugins: [vue(),dts()]
 });

@@ -31,4 +31,4 @@
 
 ## 查看源码
 
-[modules/element/scrollToTop.ts:25](https://github.com/hmp1049127947/hmp-utils/blob/4a6ef6c09762a1cd3b8d7a3366d8664e5e49db4c/src/modules/element/scrollToTop.ts#L25)
+[modules/element/scrollToTop.ts:25](https://github.com/hmp1049127947/hmp-utils/blob/dee7627dd7f5e043cd0494e8f8fdc05ccdb65423/src/modules/element/scrollToTop.ts#L25)

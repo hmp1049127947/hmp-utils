@@ -4,14 +4,6 @@
 
 # hmp-utils
 
-## 接口
-
-- [EncryptionParams](interfaces/EncryptionParams.md)
-
-## Variables
-
-- [directive](variables/directive.md)
-
 ## url工具
 
 - [getUrlParams](functions/getUrlParams.md)
@@ -76,6 +68,8 @@
 
 ## 自定义指令
 
+- [directive](variables/directive.md)
+- [clickOutsideDirective](functions/clickOutsideDirective.md)
 - [dragDirective](functions/dragDirective.md)
 - [lazyDirective](functions/lazyDirective.md)
 

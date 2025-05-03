@@ -28,4 +28,4 @@ getUrlParams('www.baidu.com?a=1&b=2')
 
 ## 查看源码
 
-[modules/url/index.ts:12](https://github.com/hmp1049127947/hmp-utils/blob/4a6ef6c09762a1cd3b8d7a3366d8664e5e49db4c/src/modules/url/index.ts#L12)
+[modules/url/index.ts:12](https://github.com/hmp1049127947/hmp-utils/blob/dee7627dd7f5e043cd0494e8f8fdc05ccdb65423/src/modules/url/index.ts#L12)

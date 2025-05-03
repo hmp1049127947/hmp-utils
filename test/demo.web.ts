@@ -1,3 +1,6 @@
-import { helloWorld } from '../dist';
+import { createApp } from 'vue'
+import App from './demo.web.vue'
+import {directive} from '../src'
 
-console.log(helloWorld());
+const app = createApp(App)
+app.use(directive).mount('#app')

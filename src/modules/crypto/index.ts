@@ -9,7 +9,7 @@ import { isJSON } from '../is/index';
 
 
 
-export interface EncryptionParams {
+interface EncryptionParams {
   key: string;
   iv?: string;
 }
