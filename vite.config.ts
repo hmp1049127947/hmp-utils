@@ -8,12 +8,16 @@ export default defineConfig({
   build: {
     emptyOutDir: true,
     lib: {
-      formats: ['es', 'cjs', 'iife'],
+      formats: ['es', 'cjs'],
       entry: './src/index.ts',
       name: 'UTILS',
       fileName: 'index'
+    },
+    rollupOptions:{
+      external: ['vue'],
     }
   },
+
   resolve: {
     alias: {
       '@': path.resolve(__dirname, './src')
