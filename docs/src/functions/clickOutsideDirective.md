@@ -1,4 +1,4 @@
-[**hmp-utils1**](../README.md) • **Docs**
+[**hmp-utils**](../README.md) • **Docs**
 
 ***
 

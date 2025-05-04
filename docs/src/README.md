@@ -1,4 +1,4 @@
-**hmp-utils1** • [**Docs**](globals.md)
+**hmp-utils** • [**Docs**](globals.md)
 
 ***
 
